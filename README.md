@@ -1,9 +1,11 @@
+# Predictive Fraud Detection System for University E-Payment Portals (Final Year Project) - ML Backend
+
 ## Setup Instructions
 
 1. **Activate your virtual environment:**
 
    ```
-   python3 -m venv .venv
+   python -m venv .venv
    source .venv/bin/activate  # Linux/Mac
    # or .venv\Scripts\activate on Windows
    ```
